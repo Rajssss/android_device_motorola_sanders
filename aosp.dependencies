@@ -1,0 +1,13 @@
+[
+  {
+    "remote": "github",
+    "repository":  "ronaxdevil/mayhem-kernel",
+    "target_path": "kernel/motorola/msm8953",
+    "branch": "stable"
+  },
+  {
+    "repository": "Rajssss/vendor_motorola_sanders",
+    "target_path": "vendor/motorola/sanders",
+    "branch": "aex"
+  }
+]
