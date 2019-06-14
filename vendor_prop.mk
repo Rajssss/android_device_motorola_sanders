@@ -178,7 +178,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # IMS
 PRODUCT_PROPERTY_OVERRIDES += \
-    persist.vendor.radio.jbims=1 \
     persist.radio.RATE_ADAPT_ENABLE=1 \
     persist.radio.VT_ENABLE=1 \
     persist.radio.VT_HYBRID_ENABLE=1 \
@@ -369,7 +368,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.config.dha_lmk_scale=0.545 \
     ro.config.dha_th_rate=2.3 \
     ro.config.sdha_apps_bg_max=64 \
-    ro.config.sdha_apps_bg_min=8 
+    ro.config.sdha_apps_bg_min=8
 
 # USB debugging at boot
 PRODUCT_PROPERTY_OVERRIDES += \
